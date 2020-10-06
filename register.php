@@ -1,3 +1,7 @@
+<html>
+<head>
+</head>
+<body>
 <?
 // Страница регистрации нового пользователя
 
@@ -54,3 +58,5 @@ if(isset($_POST['submit']))
 Пароль <input name="password" type="password" required><br>
 <input name="submit" type="submit" value="Зарегистрироваться">
 </form>
+    </body>
+</html>
